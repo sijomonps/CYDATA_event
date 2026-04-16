@@ -34,31 +34,12 @@ This website was created to support and promote the event digitally.
 
 ---
 
-## ✨ Features
-
-- ⏳ Live countdown timer
-- 📱 Responsive design (works on mobile & desktop)
-- ⚡ Lightweight and fast
-- 🎯 Simple and clean UI
-
----
-
 ## 🌐 Live Website
 
 https://sijomonps.github.io/CYDATA_event/
 
 ---
 
-## 📂 Project Structure
-
-
-/project-folder
-│── index.html
-│── style.css
-│── script.js
-
-
----
 
 ## 📸 Preview
 
