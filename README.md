@@ -45,8 +45,7 @@ This website was created to support and promote the event digitally.
 
 ## 🌐 Live Website
 
-👉 [View Live Site](#)  
-*(Add your GitHub Pages link here)*
+https://sijomonps.github.io/CYDATA_event/
 
 ---
 
